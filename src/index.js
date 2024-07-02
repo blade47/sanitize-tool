@@ -14,6 +14,9 @@ class SanitizeTool {
         'data-year': true,
         'data-publication': true,
         'data-journal': true,
+        'data-volume': true,
+        'data-volume-initial-page': true,
+        'data-volume-last-page': true,
       },
     };
   }
